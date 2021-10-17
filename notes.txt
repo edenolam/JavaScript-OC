@@ -1,0 +1,18 @@
+JavaScript est un langage dit à types dynamiques et à typage faible.
+Cela signifie que vous pouvez initialiser une variable en tant que nombre,
+puis la réaffecter comme chaîne, ou tout autre type de variable.
+Ceci offre une grande souplesse, mais peut aussi conduire à un comportement inattendu
+si vous opérez sans précaution.
+
+La morale de l'histoire : prenez garde aux types de vos variables, et en général,
+utilisez des constantes chaque fois que c'est possible.
+
+
+les objets avec les paires clés-valeurs en notation JSON.
+Ils permettent d'enregistrer plusieurs éléments de données associés dans une même variable ;
+
+la notation pointée (dot)
+qui donne accès aux valeurs d'un objet et à la possibilité de les modifier ;
+
+les classes,
+et comment l'utilisation de classes peut vous permettre de créer des objets plus facilement et de façon plus lisible.
